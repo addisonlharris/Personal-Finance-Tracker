@@ -9,5 +9,6 @@ That data was then analyzed under the spending analysis folder which was used to
 
 Below is the analysis of our monthly spend over a three month period
 ![jan spending plot](https://github.com/user-attachments/assets/c5f72177-9566-41bd-88b6-f03d15fc6eef)
-![march spending plot](https://github.com/user-attachments/assets/45d73a39-2841-4703-9b84-52536a5015ee)
 ![feb spending plot](https://github.com/user-attachments/assets/afb7d960-4943-426f-9fcd-d7cac52ff5d9)
+![march spending plot](https://github.com/user-attachments/assets/45d73a39-2841-4703-9b84-52536a5015ee)
+
