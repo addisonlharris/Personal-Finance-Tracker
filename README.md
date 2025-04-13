@@ -1,8 +1,8 @@
 # Personal-Finance-Tracker
  Personal Finance Tracker Designed To Track Monthly Spending Habits
  
-To start off this project I created some sample data to generate financial data based on the average 25 year old's monthly spending, based off monthly essesentials, utitlies and neccasities.
-This generation data was created under the spending generator folder.
+To start off this project I created some sample data to generate financial data based on the average 25 year old's monthly spending: based off monthly essentials, utitlies and personals.
+The generation data was created under the spending generator folder.
 After generating the data it was exported to a csv file under the spending data folder.
 
 That data was then analyzed under the spending analysis folder which was used to create our monthly spending plots.
